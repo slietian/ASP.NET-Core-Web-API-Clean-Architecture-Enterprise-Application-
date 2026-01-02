@@ -120,13 +120,8 @@ The main branch is now on .NET 10.0. The following previous versions are availab
 
 ## Learn More
 
-* [Clean Architecture with ASP.NET Core 3.0 (GOTO 2019)](https://youtu.be/dK4Yb6-LxAk)
+* [Clean Architecture with ASP.NET Core 3.0 ](https://youtu.be/dK4Yb6-LxAk)
 * [Clean Architecture with .NET Core: Getting Started](https://jasontaylor.dev/clean-architecture-getting-started/)
 
-## Support
 
-If you are having problems, please let me know by [raising a new issue](https://github.com/jasontaylordev/CleanArchitecture/issues/new/choose).
 
-## License
-
-This project is licensed with the [MIT license](LICENSE).
